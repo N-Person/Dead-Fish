@@ -1,0 +1,30 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+header {
+  position: absolute;
+  width: 100%;
+  background-color: #b84066;
+  text-align: center;
+}
+
+footer {
+  width: 100%;
+  background-color: #668099;
+  text-align: center;
+}
+
+#intro {
+  width: 80%;
+  background-color: #baaea0;
+}
+
+#footer {
+}
+
+#fish-pic {
+  height: 800px;
+  width: 100%;
+  margin-bottom: 0px;
+}
